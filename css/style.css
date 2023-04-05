@@ -1,0 +1,218 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.sec1{
+    height: 220px ;
+    background-image:url(../icon/slider1.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    padding: 350px 2px;
+}
+.sec1 h1 ,.sec2 h1 {
+    color: aqua;
+    font-family: 'Roboto', sans-serif;
+    text-transform: capitalize;
+    padding-bottom: 10px;
+}
+.sec1 h2 {
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: capitalize;
+    padding-bottom: 10px;
+}
+.batnA{
+    color: white;
+    background: aqua;
+    padding: 15px 30px;
+    text-decoration: none;
+    border-radius: 35px 35px 35px 35px; 
+    display: inline-block;
+}
+.batnB{
+    color: white;
+    background:black;
+    padding: 15px 30px;
+    text-decoration: none;
+    border-radius: 35px 35px 35px 35px;
+    display: inline-block;
+}
+/*sec1 ENDS */
+.sec2 {
+    background-color: white;
+    text-align: center;
+padding: 100px 100px;
+}
+.sec2 p {
+    line-height: 25px;
+}
+/*sec2 ENDS*/
+.sec3{
+    overflow: hidden;
+    background-color: white;
+    padding: 0px 100px;  
+}
+.s3-left {
+    width: 40%;
+    float: left;
+    padding-top: 100px;
+}
+.s3-left ul{
+    list-style: none;
+}
+.s3-left ul li {
+    line-height: 30px;
+}
+.s3-left ul li i{
+    color: yellow;
+    padding-right: 20px;
+}
+.s3-left h1{
+    padding-bottom: 25px;
+}
+.s3-left p{
+    padding-bottom: 20px;
+    line-height: 30px;
+}
+.s3-left a {
+    background: aqua;
+    text-decoration: none;
+    display: inline-block;
+    padding: 12px 27px;
+    border-radius: 80px 80px 80px 80px; 
+    margin-top: 15px;
+    box-shadow: 3px 2px 0px 0px grey;
+}
+.s3-right {
+    width: 50%;
+    float: left;
+
+}
+/*sec3 ENDS*/
+.sec4 {
+    text-align: center;
+    background-color: white;
+    padding: 0px 120px;
+}
+.s4-top{
+    overflow: hidden;
+}
+.s4-boxA{
+    width: 31.3%;
+    float: left;
+    background-color: lightgrey;
+    margin: 0% 1%; 
+    padding: 30px 10px;
+    box-sizing: border-box;
+    padding: 15px 30px;
+}
+.s4-bottom {
+    overflow: hidden;
+    margin-top:30px;
+}
+.s4-boxA a{
+    padding: 15px 30px;
+    text-decoration: none;
+    border-radius: 35px 35px 35px 35px;
+    display: inline-block; 
+}
+.s4-top a,.s4-bottom a {
+    background: aqua;
+    text-decoration: none;
+    display: inline-block;
+    padding: 11px 38px;
+    border-radius: 0px 0px 0px 0px; 
+    margin-top: 15px;
+    box-shadow: 3px 2px 0px 0px grey;
+}
+/*sec4 ENDS */
+
+.sec5{
+    height: 120px;
+    margin: 85px 0px 0px 0px;
+    overflow: hidden;
+    background-image:url(../icon/bg-section-traveler.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    padding: 100px 100px;
+}
+.sec5 h2{
+    text-align: center;
+    color: white;
+    padding: 52px 0px 0px 0px;
+    padding-bottom: 10px;
+}
+.sec5 a {
+    background: aqua;
+    text-decoration: none;
+    display: inline-block;
+    padding: 11px 38px;
+    border-radius: 0px 0px 0px 0px; 
+    margin-top: 15px;
+    box-shadow: 3px 2px 0px 0px grey;
+}
+/*sec5 ENDS */
+.sec6{
+    overflow: hidden;
+    background-color: white;
+    padding: 0px 120px; 
+}
+.sec6 h1{
+    font-family: 'Montserrat', sans-serif;
+    margin: 45px 0px;
+    text-align: center
+}
+.s6-top{
+    overflow: hidden;
+    margin: 0px 184px 0px 118px;
+}
+.s6-boxA{
+    width: 31.3%;
+    float: left;
+    background-color: white;
+    margin: 0% 1%; 
+    padding: 30px 10px;
+    box-sizing: border-box;
+    padding: 15px 30px;
+    text-align: center;
+    display: inline-block;
+}
+.s6-boxA img{
+    border-style: ridge;
+    border-color: aqua;
+}
+.s6-boxA h3{
+    font-family: 'Montserrat', sans-serif;
+}
+.s6-boxA a{
+    font-family: 'Montserrat', sans-serif;
+    background:white;
+    color: black;
+    text-decoration: none;
+    display: inline-block;
+    padding: 11px 38px;
+    border-radius: 35px 35px 35px 35px; 
+    margin-top: 15px;
+    box-shadow: 0px 0px 0px 2px aqua
+}
+/*sec6 ENDS */
+.sec7 {
+    background-color: white;
+    text-align: center;
+padding: 100px 100px;
+}
+.sec7 p {
+    line-height: 25px;
+}
+.sec7 h4{
+    margin:40px 40px;
+}
+.sec7 h2{
+    color: white;
+    background-color: black;
+    background-size: 100px;
+}
